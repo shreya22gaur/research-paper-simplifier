@@ -1,5 +1,5 @@
 import streamlit as st
-
+from dotenv import load_dotenv
 from pypdf import PdfReader
 import os
 
