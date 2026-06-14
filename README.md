@@ -1,5 +1,7 @@
 # 📚 AI Research Paper Simplifier
 
+🚀 Live Demo: https://research-paper-simplifier-1.onrender.com
+
 An AI-powered web application that simplifies research papers by generating concise summaries, extracting key contributions, explaining methodologies, identifying limitations, suggesting future work, and generating interview questions.
 
 Built using **Streamlit**, **Groq API**, and **PyPDF**.
